@@ -15,16 +15,16 @@ Here's a couple methods of installation:
 
 * wget
 ```
-	cd ~/my-blog.github.io/_posts/
-	wget https://raw.githubusercontent.com/tbender4/create-blog/master/create-post.sh
-	chmod +x create-post.sh
+cd ~/my-blog.github.io/_posts/
+wget https://raw.githubusercontent.com/tbender4/create-blog/master/create-post.sh
+chmod +x create-post.sh
 ```
 
 * git
 ```
-	git clone https://github.com/tbender4/create-blog.git
-	mv ./create-blog/create-post.sh ~/my-blog.github.io/_posts
-	chmod +x ~/my-blog.github.io/_posts
+git clone https://github.com/tbender4/create-blog.git
+mv ./create-blog/create-post.sh ~/my-blog.github.io/_posts
+chmod +x ~/my-blog.github.io/_posts
 ```
 
 ## Usage
